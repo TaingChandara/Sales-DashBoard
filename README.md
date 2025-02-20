@@ -1,1 +1,3 @@
 # Sales-DashBoard
+Below is a description of the dashboard chart based on the uploaded document, which appears to contain sales data visualized in two parts: a summary of total sales (Page 1) and a detailed breakdown by country, year, quarter, month, and sales value (Page 2). The description assumes a typical dashboard chart layout (e.g., bar, pie, or table) and interprets the data accordingly.
+This dashboard chart provides a comprehensive overview of sales performance across multiple dimensions, including total sales values and a detailed breakdown by customer country, year, quarter, and month, spanning 2003 to 2005.
